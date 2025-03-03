@@ -14,9 +14,13 @@ Conocer HTML y CSS es indispesanble para cualquier profesional de tecnología. E
 ## ✔️ Contenido del curso
 
 ✔️ `Ambientes de desarrollo, estructura de archivos y Tags`: Crea un proyecto desde cero con HTML y CSS.
-✔️ `Clases, Posicionamiento y Flexbox`: Aprende a estilizar tus textos, fuentes e iconos
-✔️ `header, footer y variables CSS`: Trabaja con más de una página HTML en el mismo proyecto
-✔️ `trabajando con responsividad y publicación de proyectos`: Descubre qué es y cómo usar la Media Query en tus proyectos
+
+✔️ `Clases, Posicionamiento y Flexbox`: Aprende a estilizar tus textos, fuentes e iconos.
+
+✔️ `header, footer y variables CSS`: Trabaja con más de una página HTML en el mismo proyecto-
+
+✔️ `trabajando con responsividad y publicación de proyectos`: Descubre qué es y cómo usar la Media Query en tus proyectos.
+
 
 ## 📁 Acceso al proyecto
 
