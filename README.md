@@ -7,17 +7,9 @@ El siguiente es un proyecto desarrollado en el contenido del curso de HTML y CSS
 
 ![image](https://github.com/user-attachments/assets/c02a2e40-8b07-47e9-936c-dc45e30efc50)
 
-Después de agregar la imagen, también modifica las configuraciones del proyecto para asegurarte de que la imagen se cargue como miniatura:
-
-**Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
-
 <details>
   <summary><b>Demostración de la adición de miniatura<b/></summary>
     
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
-  
 # Nombre del proyecto
 
 Describe de qué trata el proyecto y qué hace.
