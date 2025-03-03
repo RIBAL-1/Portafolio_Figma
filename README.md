@@ -9,33 +9,17 @@ El siguiente es un proyecto desarrollado en el contenido del curso de HTML y CSS
 
 ## 🔨 Funcionalidades del proyecto
 
-Indica cuáles son las funcionalidades y comportamientos de la App.
+Conocer HTML y CSS es indispesanble para cualquier profesional de tecnología. Estas habilidades permiten comprender la estructura y diseño de las páginas web, lo que facilita la comunicación con equipos de desarrollo y mejora la colaboración en proyectos digitales. Además, entender cómo se crean y estilizan las interfaces ayuda a optimizar el contenido para usuarios y buscadores. Todos los profesionales de cualquier área de técnología pueden beneficiarse al interpretar y ajustar elementos básicos de un sitio web, fortaleciendo su perfil técnico y mejorando la eficiencia en entornos tecnológicos.
 
-Si es posible, presenta un ejemplo visual del proyecto, ya sea gif, imágenes o video. A continuación, un ejemplo:
+## ✔️ Contenido del curso
 
-![image](https://github.com/user-attachments/assets/a86f67e5-0c7e-4ccc-9de2-6ea73b58aa93)
-
-## ✔️ Técnicas y tecnologías utilizadas
-
-**Haz una lista de las tecnologías y técnicas utilizadas (la justificación y descripción son opcionales)**:
-
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-  - `Funcionalidad 2a`: descripción de la funcionalidad 2a relacionada con la funcionalidad 2
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+✔️ `Ambientes de desarrollo, estructura de archivos y Tags`: Crea un proyecto desde cero con HTML y CSS.
+✔️ `Clases, Posicionamiento y Flexbox`: Aprende a estilizar tus textos, fuentes e iconos
+✔️ `header, footer y variables CSS`: Trabaja con más de una página HTML en el mismo proyecto
+✔️ `trabajando con responsividad y publicación de proyectos`: Descubre qué es y cómo usar la Media Query en tus proyectos
 
 ## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea el proyecto inicial o final.**
+Acá encontrarás el contenido del proyecto, todas las contribuciones son bien recibidas !!!
 
-## 🛠️ Abrir y ejecutar el proyecto
-
-**Presenta las instrucciones necesarias para abrir y ejecutar el proyecto.**
-
-## 📚 Más información del curso
-
-**Haz un CTA (_call to action_) para el curso del proyecto.**
-
---- 
-
-Isso preserva a estrutura Markdown do template original, adaptando o conteúdo para o espanhol informal.
+https://github.com/RIBAL-1/Portafolio_Figma/tree/main
