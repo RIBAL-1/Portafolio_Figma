@@ -26,6 +26,6 @@ Conocer HTML y CSS es indispesanble para cualquier profesional de tecnología. E
 
 Acá encontrarás el contenido del proyecto, todas las contribuciones son bien recibidas !!!
 
-https://github.com/RIBAL-1/Portafolio_Figma/tree/main
+https://portafolio-figma-sigma.vercel.app/
 
 https://www.figma.com/design/EAQgNcBE5qOCn5qFFYZzNZ/Portafolio---Curso-3?node-id=1-47&t=uQeeuQ3lUchUEIz1-0
