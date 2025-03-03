@@ -5,7 +5,8 @@ El siguiente es un proyecto desarrollado en el contenido del curso de HTML y CSS
 
 ## Imagen del proyecto
 
-![Imagen de portada] https://github.com/RIBAL-1/Portafolio_Figma/blob/main/portada_portafolio.png
+![Descripción de la imagen]()
+
 
 # Nombre del proyecto
 
