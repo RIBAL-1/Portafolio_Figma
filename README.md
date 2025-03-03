@@ -3,9 +3,7 @@
 
 El siguiente es un proyecto desarrollado en el contenido del curso de HTML y CSS por Alura Latam denominado Portafolio. 
 
-## Imagen de portada
-
-Añade la imagen de portada con el tema de tu proyecto:
+## Imagen del proyecto
 
 ![image](https://github.com/user-attachments/assets/c02a2e40-8b07-47e9-936c-dc45e30efc50)
 
