@@ -5,12 +5,7 @@ El siguiente es un proyecto desarrollado en el contenido del curso de HTML y CSS
 
 ## Imagen del proyecto
 
-![Descripción de la imagen]()
-
-
-# Nombre del proyecto
-
-Describe de qué trata el proyecto y qué hace.
+![Descripción de la imagen](portada_portafolio.png)
 
 ## 🔨 Funcionalidades del proyecto
 
